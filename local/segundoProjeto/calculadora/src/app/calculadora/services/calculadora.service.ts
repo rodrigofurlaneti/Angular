@@ -1,7 +1,6 @@
 /**
  * Serviço responsável por executar as operações da 
  * calculadora.
- * 
  * @author Rodrigo Luiz Madeira Furlaneti<rodrigofurlaneti31@hotmail.com>
  * @since 1.0.0
  */

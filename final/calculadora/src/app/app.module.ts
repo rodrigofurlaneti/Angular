@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { CalculadoraModule } from './calculadora';
+import { CalculadoraModule } from './calculadora/calculadora.module';
 
 @NgModule({
   declarations: [
